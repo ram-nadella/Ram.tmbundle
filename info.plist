@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>enz.anqryyn@yvir.pbz</string>
+	<key>contactName</key>
+	<string>Ram</string>
+	<key>description</key>
+	<string>Ram's bundle for convenience snippets, commands etc.</string>
+	<key>name</key>
+	<string>Ram</string>
+	<key>uuid</key>
+	<string>E2E35A01-E277-4530-852D-E904B9B37ED6</string>
+</dict>
+</plist>
